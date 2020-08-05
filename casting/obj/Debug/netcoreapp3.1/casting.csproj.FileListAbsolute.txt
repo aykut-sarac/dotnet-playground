@@ -1,0 +1,13 @@
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.csprojAssemblyReference.cache
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.AssemblyInfoInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.AssemblyInfo.cs
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.csproj.CoreCompileInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.exe
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.deps.json
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.runtimeconfig.json
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.runtimeconfig.dev.json
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.dll
+C:\Users\D_O_H_K\Desktop\dotnet\casting\bin\Debug\netcoreapp3.1\casting.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.dll
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\casting\obj\Debug\netcoreapp3.1\casting.genruntimeconfig.cache
