@@ -21,6 +21,13 @@ namespace vars
             float a = 10.5f;
             double b = 20.6;
             decimal c = 100.56m;
+            //string
+            string name = "aykut";
+            char ch = 'a';
+            //boolean
+            bool isOK = true;
+            bool isNotOK = false;
+
 
             Console.WriteLine(number1);
             System.Console.WriteLine(a);
