@@ -1,0 +1,13 @@
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.exe
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.deps.json
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.runtimeconfig.json
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.runtimeconfig.dev.json
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.dll
+C:\Users\D_O_H_K\Desktop\dotnet\strings\bin\Debug\netcoreapp3.1\strings.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.csprojAssemblyReference.cache
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.AssemblyInfoInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.AssemblyInfo.cs
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.csproj.CoreCompileInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.dll
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\strings\obj\Debug\netcoreapp3.1\strings.genruntimeconfig.cache
