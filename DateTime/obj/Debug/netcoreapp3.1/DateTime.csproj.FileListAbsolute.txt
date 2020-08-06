@@ -1,0 +1,13 @@
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
