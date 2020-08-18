@@ -1,0 +1,13 @@
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.exe
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.deps.json
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.json
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.dev.json
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.dll
+C:\Users\D_O_H_K\Desktop\dotnet\operators\bin\Debug\netcoreapp3.1\operators.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.csprojAssemblyReference.cache
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfoInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfo.cs
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.csproj.CoreCompileInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.dll
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache

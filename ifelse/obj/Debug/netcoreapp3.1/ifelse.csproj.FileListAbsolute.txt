@@ -1,0 +1,13 @@
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.exe
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.deps.json
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.json
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.runtimeconfig.dev.json
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\bin\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.csprojAssemblyReference.cache
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfoInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfo.cs
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.dll
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.pdb
+C:\Users\D_O_H_K\Desktop\dotnet\ifelse\obj\Debug\netcoreapp3.1\ifelse.genruntimeconfig.cache
